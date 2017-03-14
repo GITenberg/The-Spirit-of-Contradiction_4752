@@ -1,11 +1,14 @@
 _repo: The-Spirit-of-Contradiction_4752
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: L'esprit de contradiction. English
 contributor:
   translator:
     agent_name: Morlock, Frank J.
     gutenberg_agent_id: '1532'
     url: http://www.gutenberg.org/2009/agents/1532
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dufresny, Charles Rivière
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1565
     wikipedia: http://en.wikipedia.org/wiki/Charles_Rivière_Dufresny
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4752#The-Spirit-of-Contradiction
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
